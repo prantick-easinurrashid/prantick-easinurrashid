@@ -1,4 +1,6 @@
-### Hi there 👋
+Self-motivated CS student with a dynamic and forward-thinking approach. I possess a solid academic foundation coupled with hands-on experience in successfully developing multiple unique projects with a keen interest in Software Testing & Automation, Cybersecurity & Analysis, and Blockchain Technology.  Prioritizing teamwork, personal growth, and excelling in challenges through active learning, problem-solving, and analytical thinking. Brings extensive IT knowledge with experience in business, marketing, and customer service. As an active member of volunteer clubs, I possess vital networking, leadership, and management skills. 
+Offers passion and a pleasant approach to every engagement, whether serving customers or aiding with other chores, demonstrating a solid work ethic.
+Passionate about discovering new ideas, I strive to contribute towards innovative opportunities and integrate my lively and energetic attitude to work with a leading team. Seeking a position of responsibility in a structured, demanding professional atmosphere where I can employ my technical expertise, research prowess, and interpersonal qualities to develop creative solutions applied to the growth and success of my team and organization and achieve professional advancement.
 
 <!--
 **prantick-easinurrashid/prantick-easinurrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
